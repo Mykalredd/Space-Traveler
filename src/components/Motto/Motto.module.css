@@ -1,0 +1,17 @@
+.motto
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.motto__text
+{
+  font-size: 2rem;
+}
+
+.motto__emojis
+{
+  font-size: 3rem;
+}
