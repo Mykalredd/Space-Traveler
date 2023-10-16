@@ -18,12 +18,6 @@ function Spacecrafts ()
     }
     
     
-  //   const {data: spacecrafts, isError} = await SpaceTravelApi.getSpacecrafts();
-  //   if (!isError)
-  //   {
-  //     setSpacecrafts(spacecrafts);
-  //   }
-  // }
 
   useEffect(() =>
             {

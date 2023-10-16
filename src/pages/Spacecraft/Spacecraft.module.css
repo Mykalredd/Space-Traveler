@@ -29,10 +29,6 @@
   font-size: 24px;
 }
 
-/* .spacecraft__image--default
-{
-  font-size: 4.8rem;
-} */
 
 .spacecraft__infoContainer
 {
@@ -43,7 +39,6 @@
 .spacecraft__info
 {
   font-size: 16px;
-  /* font-size: 1.2rem; */
   width: 50%;
 }
 
@@ -55,6 +50,5 @@
 .spacecraft__infoText
 {
   font-size: 14px;
-  /* font-size: 1rem; */
   text-align: justify;
 }

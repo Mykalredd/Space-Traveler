@@ -32,29 +32,3 @@ function App ()
 
 export default App;
       
-//       <BrowserRouter>
-//         <div className={styles["app"]}>
-//           <header className={styles["app__header"]}>
-//             <NavigationBar />
-//           </header>
-
-//           <main className={styles["app__main"]}>
-//             <AppRoute />
-//           </main>
-
-//           <footer className={styles["app__footer"]}>
-//             <Motto />
-//           </footer>
-//         </div>
-//       </BrowserRouter>
-
-//       {
-//         isLoading
-//         &&
-//         <Loading />
-//       }
-//     </>
-//   );
-// }
-
-// export default App;

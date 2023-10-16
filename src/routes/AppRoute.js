@@ -28,36 +28,3 @@ function AppRoute ()
 
 export default AppRoute;
     
-//     <Routes>
-//       <Route
-//         path="/"
-//         element={<Home />}
-//       />
-
-//       <Route
-//         path="/spacecrafts"
-//         element={<Spacecrafts />}
-//       />
-//       <Route
-//         path="/spacecraft/build"
-//         element={<SpacecraftBuild />}
-//       />
-//       <Route
-//         path="/spacecraft/:id"
-//         element={<Spacecraft />}
-//       />
-
-//       <Route
-//         path="/planets"
-//         element={<Planets />}
-//       />
-
-//       <Route
-//         path="*"
-//         element={<Navigate to={"/"} />}
-//       />
-//     </Routes>
-//   );
-// }
-
-// export default AppRoute;
