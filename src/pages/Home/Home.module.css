@@ -5,9 +5,39 @@
 .page-background {
   background-color: black;
   padding: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+/* .pageBackground {
+  background-color: #f0f0f0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
 
+.centeredContainer {
+  text-align: center;
+  padding: 20px;
+  border: 1px transparent purple;
+  border-radius: 5px;
+  max-width: 600px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+  font-style: italic;
+  color: gold;
+  background-color: black;
+}
+
+.scriptContainer {
+  margin-top: 20px;
+}
+
+.scriptContainer p {
+  margin: 10px 0;
+}
 /* .section__container
 {
   font-size: 1.2rem;
